@@ -17,11 +17,11 @@
 
    <img width="592" height="106" alt="image" src="https://github.com/user-attachments/assets/999c7f9a-abb2-45b8-86d2-0d4cbc36cf88" />
 
-4. Program menampilkan menu (lihat data, tambah barang, keluar) berulang-ulang sampai pengguna memilih keluar.
+4. Program menampilkan menu lihat data, tambah barang, keluar berulang-ulang sampai pengguna memilih keluar.
 
    <img width="576" height="124" alt="image" src="https://github.com/user-attachments/assets/fb22c24e-0999-473b-bf8a-50560aefde14" />
 
-5. Program meminta pengguna memilih menu. Jika memilih "1", program menampilkan semua data barang (nama, stok, harga) satu per satu, atau pesan "Belum ada data barang" jika datanya kosong.
+5. Program meminta pengguna memilih menu. Jika memilih "1", program menampilkan semua data barang nama, stok, harga satu per satu, atau pesan "Belum ada data barang" jika datanya kosong.
 
    <img width="577" height="283" alt="image" src="https://github.com/user-attachments/assets/be5aed3d-694c-4f52-b4d1-e80f456641a3" />
 
