@@ -37,10 +37,23 @@
 
 1. Program berjalan dengan benar: menu 1 menampilkan tiga barang (Pensil, Buku, pulpen)
 
-   <img width="472" height="309" alt="image" src="https://github.com/user-attachments/assets/0b0b8857-d6b8-4161-9240-489f33e60ea3" />
+   <img width="432" height="354" alt="image" src="https://github.com/user-attachments/assets/21652ddf-cb49-47f9-be71-7779f4bece02" />
 
-2. ll
+2. Program berjalan dengan benar: pengguna memilih menu 2, mengisi nama Pengaris, stok 7, dan harga (12000), lalu muncul pesan bahwa data berhasil ditambahkan dan disimpan ke file JSON.
 
+   <img width="257" height="131" alt="image" src="https://github.com/user-attachments/assets/d20d3e10-84a6-4fc2-a66a-3da83ede9d5c" />
+
+3. Program berjalan dengan benar: menu 1 sekarang menampilkan empat barang, termasuk "Pengaris" stok 7, harga 12000 yang tadi ditambahkan lewat menu 2. Ini membuktikan data baru tersimpan ke file JSON dan terbaca kembali.
+
+   <img width="253" height="211" alt="image" src="https://github.com/user-attachments/assets/7ad4a412-b9f9-4413-b596-de7e2ba73dbe" />
+
+4. Program berjalan dengan benar: pengguna memilih menu 3, muncul pesan "Program selesai.", lalu program berhenti dan kembali ke terminal.
+
+   <img width="226" height="71" alt="image" src="https://github.com/user-attachments/assets/eec990ec-182f-4db6-9d2c-263fe94b9c19" />
+
+
+# *Selesai*
+sekian penjelasan saya terimakasih banyakk:)
    
 
 
